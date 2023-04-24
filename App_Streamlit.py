@@ -222,7 +222,7 @@ def main():
     st.sidebar.text("Built with Streamlit")
     
     st.sidebar.header("For Any Queries/Suggestions Please reach out at :")
-    st.sidebar.info("saumyagajjar2409@gmail.com")
+    st.sidebar.info("saumyagajjar9898763321@gmail.com")
     #st.sidebar.subheader("Scatter-plot setup")
     #box1 = st.sidebar.selectbox(label= "X axis", options = numeric_columns)
     #box2 = st.sidebar.selectbox(label="Y axis", options=numeric_columns)
